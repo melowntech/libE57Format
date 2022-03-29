@@ -31,6 +31,8 @@
 #include <xercesc/util/BinInputStream.hpp>
 #include <xercesc/util/TransService.hpp>
 
+#include <limits>
+
 #include "BlobNodeImpl.h"
 #include "CheckedFile.h"
 #include "CompressedVectorNodeImpl.h"
